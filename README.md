@@ -85,7 +85,7 @@ Aplicação web rodando em http://localhost:8080 com estilo personalizado e bot�
 
 
 
-## ✅ O que fazer agora
+ ✅ O que fazer agora
 
 1. Crie a pasta `docker-compose-apache-html` no seu computador.
 2. Dentro dela, crie os arquivos conforme acima.
