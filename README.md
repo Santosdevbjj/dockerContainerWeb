@@ -11,14 +11,8 @@ Você poderá ir além e fazer alterações mais robustas ao seu projeto, estili
 
  Você também pode buscar outras formas para executar seu arquivo HTML em outras Linguagens de Programação.
 
-## O Repositório esta organizado da seguinte forma:
- **app/**
-   **index.html**
-   **script.js**
-   **style.css**
-**docker-compose.yml**
-**Readme.md**
-   
+
+ 
 
 # 💻 Desafio: Container de uma Aplicação Web com Docker Compose
 
