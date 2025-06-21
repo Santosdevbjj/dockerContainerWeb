@@ -15,7 +15,8 @@ Você poderá ir além e fazer alterações mais robustas ao seu projeto, estili
 
 ## Estrutura do Repositório:
 
-docker-compose-apache-html/
+docker-compose-apache-html
+| 
 ├── docker-compose.yml
 ├── app/
 │   ├── index.html
