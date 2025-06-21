@@ -13,7 +13,15 @@ Você poderá ir além e fazer alterações mais robustas ao seu projeto, estili
 
  Você também pode buscar outras formas para executar seu arquivo HTML em outras Linguagens de Programação.
 
+## Estrutura do Repositório:
 
+docker-compose-apache-html/
+├── docker-compose.yml
+├── app/
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+└── README.md 
 
 
 
