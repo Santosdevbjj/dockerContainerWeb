@@ -15,6 +15,53 @@ Você poderá ir além e fazer alterações mais robustas ao seu projeto, estili
 
 
 
+# 💻 Desafio: Container de uma Aplicação Web com Docker Compose
+
+## 🔧 Descrição
+Este projeto utiliza Docker Compose para rodar uma aplicação web simples (HTML + CSS + JS) dentro de um container Apache (`httpd`).
+
+## 🚀 Como Executar
+
+**1. Clone o repositório:**
+```bash
+git clone https://github.com/seu-usuario/docker-compose-apache-html.git
+cd docker-compose-apache-html
+
+
+2.Execute o container:
+
+docker-compose up -d
+
+
+**3. Acesse no navegador:**
+
+http://localhost:8080
+
+
+
+🛠️ *Tecnologias
+
+Docker
+
+Docker Compose
+
+Apache (httpd)
+
+HTML, CSS e JS
+
+
+📁 Estrutura
+
+docker-compose.yml: configuração do container Apache
+
+app/: arquivos da aplicação web
+
+
+✨ Resultado
+
+Aplicação web rodando em http://localhost:8080 com estilo personalizado e botão interativo.
+
+
 
 
 
